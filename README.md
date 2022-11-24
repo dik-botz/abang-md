@@ -1,6 +1,6 @@
 # <h1 align="center">Dikabotz</h1>
 
-#AnggaMD
+#Dikabotz
 Script WhatsApp Bot Multi Device
 
 ## NOTE
