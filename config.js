@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By Andika Rustiwa.
    * Recode By Naze Dev & AnggaXyzz
-   * Contact Me on wa.me/6282113821188
+   * Contact Me on wa.me/6289518965891
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
+global.owner = ['6289518965891']
+global.ownernomer = "6289518965891"
+global.premium = ['6289518965891']
 global.packname = 'Sticker By'
-global.author = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
+global.author = 'ANDIKABOTWA'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -67,7 +67,7 @@ global.mygc = "https://chat.whatsapp.com/I1mlONQxvBlIk5lK7MnOfk"
 // Engak Ngaruh, Belum Kepasang
 global.botname = '𝕬𝖓𝖌𝖌𝖆𝕭𝖔𝖙𝖟'
 global.akulaku = 'Bot By Angga'
-global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.ytname = 'kiminato youzero' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
