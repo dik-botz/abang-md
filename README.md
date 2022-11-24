@@ -1,4 +1,4 @@
-# <h1 align="center">AnggaXyzz</h1>
+# <h1 align="center">Dikabotz</h1>
 
 #AnggaMD
 Script WhatsApp Bot Multi Device
